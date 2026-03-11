@@ -1,4 +1,4 @@
-# Travaux Pratiques Python - LP Génie Logiciel
+# Travaux Pratiques Python
 
 Ce dépôt contient les rendus des Travaux Pratiques réalisés en Python.
 
